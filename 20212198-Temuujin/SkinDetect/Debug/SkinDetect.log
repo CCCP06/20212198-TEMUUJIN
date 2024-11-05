@@ -1,0 +1,9 @@
+﻿  SkinDetect.cpp
+E:\강의자료\AI\Neural실습프로그램vs2019\[6]SkinDetect\SkinDetect\SkinDetect.cpp(29,15): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+E:\강의자료\AI\Neural실습프로그램vs2019\[6]SkinDetect\SkinDetect\SkinDetect.cpp(24,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+E:\강의자료\AI\Neural실습프로그램vs2019\[6]SkinDetect\SkinDetect\SkinDetect.cpp(24,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+E:\강의자료\AI\Neural실습프로그램vs2019\[6]SkinDetect\SkinDetect\SkinDetect.cpp(79,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\강의자료\AI\Neural실습프로그램vs2019\[6]SkinDetect\SkinDetect\SkinDetect.cpp(90,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\강의자료\AI\Neural실습프로그램vs2019\[6]SkinDetect\SkinDetect\SkinDetect.cpp(93,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\강의자료\AI\Neural실습프로그램vs2019\[6]SkinDetect\SkinDetect\SkinDetect.cpp(157,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SkinDetect.vcxproj -> E:\강의자료\AI\Neural실습프로그램vs2019\[6]SkinDetect\Debug\SkinDetect.exe
